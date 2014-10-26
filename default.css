@@ -1,0 +1,376 @@
+﻿.LikeGreen1
+{
+    color: #429e22;
+}
+.LikeGreen2
+{
+    color: #afc00c;
+}
+.LikeGreen3
+{
+    color: #3b5917;
+}
+
+
+
+.BrochureYellow
+{
+    color: #f7f8dd;
+}
+.BrochureGray
+{
+    color: #d7d5c7;
+}
+.BrochureMedBorder
+{
+    color: #8c8834;
+}
+.BrochureDkBorder
+{
+    color: #818251;
+}
+.BrochureTitleFontColor
+{
+    color: #5e5f5e;
+}
+
+.SaveBlue
+{
+    color: #49A6C7;
+}
+.SaveYellow
+{
+    background-color: #D9D927;
+}
+.SaveGreen
+{
+    color: #429E22;
+}
+
+
+a:link, a:visited
+{
+    font-family: Trebuchet MS;
+    font-size: 1em;
+}
+
+
+body
+{
+    background-color: #d7d5c7;
+}
+
+.SiteDiv
+{
+    margin-left: auto;
+    margin-right: auto;
+    width:800px;
+    top: 0px;
+}
+
+.ContentDiv,
+.ProjectLinks
+{
+    background-image: url(images/cornerfern.gif);
+    background-repeat:no-repeat;
+    background-position: right bottom;
+}
+
+.ContentDiv
+{
+    text-align:left;
+    border-left:solid 1px #fff;
+    border-right: solid 1px #fff;
+    border-bottom: solid 1px #fff;
+    width: 780px;
+    margin-right: 200px;
+    min-height: 400px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.QuoteDiv
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #f7f8dd;
+    padding: 10px;
+    font-style: italic;
+    font-family: Calibri;
+    text-align: justify;
+    width: 225px;
+}
+
+.Alert
+{
+    color: Blue;
+    font-weight: bold;
+}
+
+.LeftDiv
+{
+    width:150px;
+    background-color: Red;   
+}
+
+.Header
+{
+    width: 802px;
+    height: 90px;
+    background-color: #f7f8dd;
+}
+
+.HeaderStripe
+{
+    height: 27px;
+    width: 802px;
+}
+
+
+.MenuDiv
+{
+    width: 802px;
+    height: 26px;
+    background-color:#2d554c;
+}
+
+.Footer
+{
+    width: 802px;
+    height: 26px;
+    background-color:#2d554c;
+}
+
+
+.ImageWithBorder,
+.ImageWithBorderLeft,
+.ImageWithBorderRight
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 0px;
+    padding: 5px;
+    background-color: #a0c7b5;
+}
+
+.ImageWithBorderLeft
+{
+    float: left;
+}
+
+.ImageWithBorderRight
+{
+    float: right;
+}
+
+.SiteTitle
+{
+    color: #4f523f;
+    font: 25px/25px Micheline, Georgia,"Times New Roman",Times,serif;
+    padding-left: 10px;
+    padding-top: 25px;
+    margin: 0px;
+}
+
+.SiteSubTitle
+{
+    font: 12px/12px Georgia,"Times New Roman",Times,serif;
+    font-style: italic;
+}
+
+.SAPMSHeader
+{
+    font-weight: bold;
+    font-size: 16pt;
+    color: #84a169;
+}
+
+.SAPMSSubHeader
+{
+    font-weight: bold;
+    font-size: 14pt;
+    color: #84a169;
+}
+
+.FAQQuestion
+{   
+    font-weight:bold;
+    margin-bottom: 5px;
+    display:block;
+}
+
+.FAQAnswer
+{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display:block;
+}
+
+.ProjectDiv
+{
+}
+
+.ProjectTitle
+{
+    height: 10px;
+    font-style:italic;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.ProjectLinks
+{
+    width: 115px;
+    vertical-align: top;
+    background-color: #E3EAEB;
+    padding: 10px 10px 265px 10px;
+}
+
+.ProjectContent
+{
+    vertical-align: top;
+    text-align: left;
+    width: 635px;
+    padding: 0px 20px 0px 10px;
+    padding-bottom: 210px;
+}
+
+
+
+.InlineImage
+{
+    float:left; 
+    padding:  0px 10px 0px 0px;
+    border:0;
+}
+
+.TrebuchetBlue, 
+.ProjectTitle, 
+.ProjectContent,
+.ProjectLinks,
+.ProjectContact
+{
+    font-family: Trebuchet MS;
+    font-size: 12pt;
+    color: #256D92;
+}
+
+.ProjectContact
+{
+    font-size: 11px;
+}
+.TrebuchetBlueSmall
+{
+    font-family: Trebuchet MS;
+    font-size: 9pt;
+    color: #256D92;
+}
+
+
+.PerpetuaBlue
+{
+    font-family: Perpetua;
+    font-size: 12pt;
+    color: #256D92;
+}
+
+.TrebuchetGreen
+{
+    font-family: Trebuchet MS;
+    font-size: 12pt;
+    color: #6AA94E;
+}
+
+.PerpetuaGreen
+{
+    font-family: Perpetua;
+    font-size: 12pt;
+    color: #6AA94E;
+}
+
+.SampleLinks
+{
+	font-family: Trebuchet MS;
+    font-size: 18pt;
+    font-weight: bold;
+    color: #256D92;
+
+}
+
+.SampleLinkImages
+{
+
+    text-decoration: none;
+}
+
+.SampleContent
+{
+    font-size: 10pt;
+}
+
+.fb-like
+{
+    width: 90px;
+    margin-left: 725px;
+    margin-bottom: 10px;
+}
+
+
+#divGala
+{
+    font-family: Gabriola;
+    font-size: 13pt;
+    text-align:center;
+}
+
+.GalaP
+{
+    padding-bottom: 0px;
+}
+
+.GalaItalic
+{
+    font-style:italic;
+}
+
+.GalaBold
+{
+    font-weight:bold;
+}
+
+.GalaHeader
+{
+    font-size:22pt;
+}
+
+
+div#divGala > a:link, div#divGala > a:visited
+{
+    font-family: Gabriola;
+}
+
+
+.Sponsors
+{
+    font-family: Arial;
+    font-size: 11pt;
+}
+
+.SponsorsLevel
+{
+    font-family: Arial Black;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.SponsorsTitle
+{
+    font-family: Arial Black;
+    font-weight: bold;
+}
+
+.SponsorsLogo
+{
+    width: 225px;
+}

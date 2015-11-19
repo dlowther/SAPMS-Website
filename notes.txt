@@ -1,0 +1,3 @@
+Hi David,
+included are the server backup, MDB file from Christina's desktop, shortcut from Larry's desktop and the target of the shortcut from the server.server version is 10.50.2500, running on a 2008 R2 virtual machine.
+As far as patch revision of the server, not 100% sure where it's at, if that becomes a necessity for you to know I can get it for you.  Let me know if you need anything else
